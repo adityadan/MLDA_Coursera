@@ -1,0 +1,4 @@
+# MLDA_Coursera
+Assignments for the Machine Learning for Data Analysis Course from Coursera
+
+For week 1 assignment, I am running a decision tree classifier that works on a data set used to predict whether a given cat belongs to the wildcat species complex (Felis silvestris and Felis lybica). Cats belonging to this species complex can easily be misidentified as belonging to the species Felis catus (domestic cat) or Felis chaus (jungle cat). In this data set we have six predictor variables: four quantitative (body_length, weight, tail_length, height) and two qualitative (tail_texture and coat_colour). Tail_texture takes on values 0 and 1 which represent  "smooth" and "bushy" respectively. Coat_colour takes on two values 0 and 1 which represent "yellow" and "grey" respectively. Using these predictors we try to build a model that can determine the value of the target variable wildcat, which takes on values 0 (is not a wildcat) and 1 (is a wildcat).
